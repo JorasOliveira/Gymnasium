@@ -78,7 +78,7 @@ gym-jiminy presents an extension of the initial Gym for robotics using [Jiminy](
 A simple environment using [PyBullet](https://github.com/bulletphysics/bullet3) to simulate the dynamics of a [Bitcraze Crazyflie 2.x](https://www.bitcraze.io/documentation/hardware/crazyflie_2_1/crazyflie_2_1-datasheet.pdf) nanoquadrotor.
 
 ### [DSSE: Drone Swarm Search Environment](https://github.com/pfeinsper/drone-swarm-search)
-![Gymnsaium version dependency](...)
+![Gymnasium version dependency](https://img.shields.io/badge/Gymnasium-v0.27.1-blue)
 ![GitHub stars](https://img.shields.io/github/stars/pfeinsper/drone-swarm-search)
 
 An single and multi-agent environment to train swarms of drones for maritme search.
